@@ -1,0 +1,13 @@
+{
+  "name": "cypress12.0",
+  "version": "12.8.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cy:e2e": "cypress open",
+    "cy:headless": "cypress run"
+  },
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
